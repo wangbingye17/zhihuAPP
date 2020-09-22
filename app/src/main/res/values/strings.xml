@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">zhihuAPP</string>
+    <string name="title_home">Home</string>
+    <string name="title_news">news</string>
+    <string name="title_collect">collect</string>
+    <string name="title_mine">mine</string>
 </resources>

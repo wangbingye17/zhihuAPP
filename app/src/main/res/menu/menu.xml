@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item android:id="@+id/blog"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_blog"
+        android:enabled="true"
+        android:title="博文"/>
+
+    <item android:id="@+id/keynote"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_keynote"
+        android:enabled="true"
+        android:title="课件"/>
+
+    <item android:id="@+id/video"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_video"
+        android:enabled="true"
+        android:title="视频"/>
+
+    <item android:id="@+id/by"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_by"
+        android:enabled="true"
+        android:title="炳烨"/>
+
+</menu>
